@@ -12,7 +12,7 @@ And I’ve been developing games for **4+ years**, constantly experimenting with
 
 ---
 
-## 🧩 What I Tinker With
+## 🧩 What I Work With
 Here’s a peek at the stuff I like to mess around with:
 
 - 💥 Effects, particles & crazy attributes  
@@ -35,9 +35,14 @@ I build with tools that let me push ideas to the max:
 ---
 
 ## 🏗️ Projects & Plugins
-*(coming soon… get ready for some epic, chaotic plugins!)*
 
----
+Here’s a glimpse of some of the projects I’ve built:
+
+- [**PlayerWelcomer**](https://github.com/FinalCarnage942/PlayerWelcomer) – A Minecraft plugin that lets players greets new comers when they join your server, with customizable messages and rewards.
+- [**CAbilityStones**](https://github.com/FinalCarnage942/CAbilityStones) – A Minecraft plugin that lets players collect and use ability stones, granting unique powers and effects to enhance gameplay.
+
+*(more epic plugins coming soon… stay tuned!)*  
+
 
 ## 📫 Connect With Me
 - **Discord:** `0c4rn4g3`  
