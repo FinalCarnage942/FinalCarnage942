@@ -40,6 +40,7 @@ Here’s a glimpse of some of the projects I’ve built:
 
 - [**PlayerWelcomer**](https://github.com/FinalCarnage942/PlayerWelcomer) – A Minecraft plugin that lets players greets new comers when they join your server, with customizable messages and rewards.
 - [**CAbilityStones**](https://github.com/FinalCarnage942/CAbilityStones) – A Minecraft plugin that lets players collect and use ability stones, granting unique powers and effects to enhance gameplay.
+- [**DamageNumbers**](https://github.com/FinalCarnage942/DamageNumbers) – A lightweight plugin that displays floating damage indicators whenever players or mobs take damage, adding clarity and satisfying feedback to combat.  
 
 *(more epic plugins coming soon… stay tuned!)*  
 
