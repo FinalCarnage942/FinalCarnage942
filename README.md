@@ -15,8 +15,7 @@ And I’ve been developing games for **4+ years**, constantly experimenting with
 ## 🧩 What I Work With
 Here’s a peek at the stuff I like to mess around with:
 
-- 💥 Effects, particles & crazy attributes  
-- 🪄 Custom models & block data  
+- 💥 Effects, particles & crazy attributes   
 - 🧩 Packets & event handling  
 - 🧱 Anything that makes Minecraft *feel different*  
 
